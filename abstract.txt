@@ -1,0 +1,1 @@
+This paper presents a non-invasive method to recognize American Sign Language (ASL) alphabet symbols. We inputted static images of signs into a convolutional neural network, which would then predict the symbol based on the training data. The average accuracy for symbol recognition was 95.75\% for training accuracy and 98.3\% for validation accuracy.  
